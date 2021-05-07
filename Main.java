@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
 
-
+// main class
  
 public class Main extends Application {
 
