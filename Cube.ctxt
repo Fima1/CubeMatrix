@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cube
+comment1.params=
+comment1.target=Cube()
+comment2.params=cent\ l
+comment2.target=Cube(Point3D,\ double)
+comment3.params=
+comment3.target=Point3D[]\ getPoints()
+comment4.params=
+comment4.target=int[][]\ getLines()
+numComments=5

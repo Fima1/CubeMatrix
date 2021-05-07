@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment10.params=slider
+comment10.target=void\ customasePerSliderGroup(javafx.scene.control.Slider)
+comment11.params=
+comment11.target=void\ paintPicture()
+comment2.params=ov\ old_val\ new_val
+comment2.target=void\ changed(javafx.beans.value.ObservableValue,\ java.lang.Number,\ java.lang.Number)
+comment3.params=ov\ old_val\ new_val
+comment3.target=void\ changed(javafx.beans.value.ObservableValue,\ java.lang.Number,\ java.lang.Number)
+comment4.params=ov\ old_val\ new_val
+comment4.target=void\ changed(javafx.beans.value.ObservableValue,\ java.lang.Number,\ java.lang.Number)
+comment5.params=ov\ old_val\ new_val
+comment5.target=void\ changed(javafx.beans.value.ObservableValue,\ java.lang.Number,\ java.lang.Number)
+comment6.params=ov\ old_val\ new_val
+comment6.target=void\ changed(javafx.beans.value.ObservableValue,\ java.lang.Number,\ java.lang.Number)
+comment7.params=ov\ old_val\ new_val
+comment7.target=void\ changed(javafx.beans.value.ObservableValue,\ java.lang.Number,\ java.lang.Number)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment9.params=slider
+comment9.target=void\ customaseSliderGroup(javafx.scene.control.Slider)
+numComments=12

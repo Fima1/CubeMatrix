@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rotation
+comment1.params=arr\ angleX
+comment1.target=Point3D[]\ RotateX(Point3D[],\ double)
+comment2.params=arr\ angleY
+comment2.target=Point3D[]\ RotateY(Point3D[],\ double)
+comment3.params=arr\ angleZ
+comment3.target=Point3D[]\ RotateZ(Point3D[],\ double)
+numComments=4

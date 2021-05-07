@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Projection
+comment1.params=cube\ ProjAngles\ Angles\ observer\ display
+comment1.target=Point2D[]\ getPoints(Cube,\ double[],\ double[],\ Point3D,\ Point3D)
+comment2.params=cube
+comment2.target=int[][]\ getLines(Cube)
+numComments=3

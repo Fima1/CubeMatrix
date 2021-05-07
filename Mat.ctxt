@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mat
+comment1.params=a\ b
+comment1.target=double[][]\ add(double[][],\ double[][])
+comment2.params=a\ b
+comment2.target=double[][]\ subtract(double[][],\ double[][])
+comment3.params=a\ b
+comment3.target=double[]\ subtract(double[],\ double[])
+comment4.params=a\ b
+comment4.target=double[][]\ multiply(double[][],\ double[][])
+comment5.params=a\ x
+comment5.target=double[]\ multiply(double[][],\ double[])
+comment6.params=x\ a
+comment6.target=double[]\ multiply(double[],\ double[][])
+numComments=7

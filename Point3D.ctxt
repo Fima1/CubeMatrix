@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Point3D
+comment1.params=
+comment1.target=Point3D()
+comment2.params=NewX\ NewY\ NewZ
+comment2.target=Point3D(double,\ double,\ double)
+comment3.params=
+comment3.target=double[]\ getArray()
+numComments=4
