@@ -13,4 +13,4 @@ Program that generates, transforms and displays a 3D cube using matrix multiplic
 - [Mat](Mat.java) - utility class containing matrix operation methods
 
 ## Display and rotation example
-![alt text](https://github.com/Fima1/CubeMatrix/blob/master/cube.gif)
+![alt text](https://github.com/Fima1/CubeMatrix/blob/master/cube.gif?raw=true)
