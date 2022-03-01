@@ -1,7 +1,5 @@
 Readme:
 
-
-```
-Java: Fima1/CubeMatrix/Main.java
-
+```java
+CubeMatrix/Main.java
 ```
