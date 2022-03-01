@@ -2,6 +2,6 @@ Readme:
 
 
 ```
-Java: CubeMatrix/Main.java
+Java: Fima1/CubeMatrix/Main.java
 
 ```
